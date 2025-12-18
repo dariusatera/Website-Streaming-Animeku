@@ -95,8 +95,8 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di komputer lokal:
 
 Proyek ini dibuat oleh kelompok PBP Hosting:
 
-* **Firmas** (Fullstack & Server Management)
-* **Hendra** (Frontend & UI/UX Design)
+* **Firmas** (Frontend & Database)
+* **Hendra** (Web Hosting)
 * **Hakim** (Backend Logic & Database)
 
 ---
